@@ -1,21 +1,30 @@
 ### Hi there, I'm Elias Shokin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Java Backend Developer.
-- 🌱 I’m currently learning Java
+### I'm a Java Backend Developer!
+- 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/) :coffee:
 - 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
+-----------
+<b>Core technologies:</b>
+> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
+![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
-### GitHub stats: 
-![Github stats](https://github-readme-stats.vercel.app/api?username=malletmustdie&hide=stars,prs,issues,contribs)
+#### GitHub stats: 
+![Elias's github stats](https://github-readme-stats.vercel.app/api?username=malletmustdie&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malletmustdie&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malletmustdie&layout=compact)](https://github.com/Selesito/github-readme-stats)
-
-### My projects:
-##### ⚡ [Forum](https://github.com/malletmustdie/forum) - Forum. Spring (Boot, Security, Data, MVC), Hibernate, Postgres, Liquibase.
-##### ⚡ [Chat](https://github.com/malletmustdie/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT)), Hibernate, Postgres, Liquibase, Postgres.
-##### ⚡ [Car accident service](https://github.com/malletmustdie/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
-##### ⚡ [ToDo list](https://github.com/malletmustdie/todo-list) - Simple ToDo list implemetation. Java EE (Servlets), Hibernate, Postgres, HTML, bootstrap, ajax, jQuery.
-##### ⚡ [Pooh JMS](https://github.com/malletmustdie/job4j_pooh) - Simple jms implementation based on Java Core, Concurrent, ThreadPool, IO.
-##### ⚡ [Job grabber](https://github.com/malletmustdie/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+##### Here is my study projects:
+1. [Console CRUD app using JDBC](https://github.com/malletmustdie/job4j_tracker)
+2. [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
+3. [Simulating JMS](https://github.com/malletmustdie/job4j_pooh)
+4. [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
+5. [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
+6. [Forum using Spring](https://github.com/malletmustdie/forum)
+7. [REST API for chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
+8. [URL Shortcut service using Spring](https://github.com/malletmustdie/job4j_url_shortcut)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
