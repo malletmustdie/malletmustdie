@@ -10,7 +10,7 @@
 ##### ⚡ [Pooh JMS](https://github.com/malletmustdie/job4j_pooh) - Simple jms implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Job grabber](https://github.com/malletmustdie/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=malletmustdie&hide=stars,prs,issues,contribs)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=malletmustdie&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malletmustdie&layout=compact)](https://github.com/Selesito/github-readme-stats)
 
