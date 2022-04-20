@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
 
+### GitHub stats: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=malletmustdie&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malletmustdie&layout=compact)](https://github.com/Selesito/github-readme-stats)
