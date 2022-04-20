@@ -1,7 +1,7 @@
 ### Hi there, I'm Elias Shokin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Java Backend Developer!
-- 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/) :coffee:
+- :coffee: I’m currently learning Java at [Job4j](https://job4j.ru/) 
 - 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
 -----------
 <b>Core technologies:</b>
