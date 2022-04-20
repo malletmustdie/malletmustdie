@@ -2,6 +2,14 @@
 
 ### I'm a Java Backend Developer.
 
+#### My projects:
+##### ⚡ [Forum](https://github.com/malletmustdie/forum) - project Forum. Spring (Boot, Security, Data, MVC), Hibernate, Postgres, Liquibase.
+##### ⚡ [Chat](https://github.com/malletmustdie/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT)), Hibernate, Postgres, Liquibase, Postgres.
+##### ⚡ [Car accident service](https://github.com/malletmustdie/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [ToDo list](https://github.com/malletmustdie/todo-list) - Simple ToDo list implemetation. Java EE (Servlets), Hibernate, Postgres, HTML, bootstrap, ajax, jQuery.
+##### ⚡ [Pooh JMS](https://github.com/malletmustdie/job4j_pooh) - Simple jms implementation based on Java Core, Concurrent, ThreadPool, IO.
+##### ⚡ [Job grabber](https://github.com/malletmustdie/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
