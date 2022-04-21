@@ -24,7 +24,8 @@
 5. [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
 6. [Forum using Spring](https://github.com/malletmustdie/forum)
 7. [REST API chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
-8. [URL Shortcut service using Spring](https://github.com/malletmustdie/job4j_url_shortcut)
+8. [REST API weather using reactive stack Spring WebFlux](https://github.com/malletmustdie/weather-reactive)
+9. [URL Shortcut service using Spring](https://github.com/malletmustdie/job4j_url_shortcut)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
