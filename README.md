@@ -33,7 +33,7 @@
   <br/>
 </details>
 
-## Here is my study projects:
+## 👨‍💻 Here is my study projects:
 1. [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
 3. [Simulating Rabbit MQ application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
