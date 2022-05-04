@@ -5,12 +5,19 @@
 - 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
 
 ## 🛠️ Core technologies:
-![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Travis](https://img.shields.io/badge/Travis-CI-succes)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+
+![Hibernate](https://img.shields.io/badge/Hibernate-green?style=flat-square&logo=hibernate)
+![JDBC](https://img.shields.io/badge/JDBC-738bff?style=flat-square) 
+![Liquibase](https://img.shields.io/badge/Liquibase-ff3333?style=flat-square)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
 
 ## 📊 Github Stats (Expand to View) 
