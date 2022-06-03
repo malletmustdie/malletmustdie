@@ -42,7 +42,7 @@
 ## 👨‍💻 Here is my study projects:
 1. [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
-3. [Simulating Rabbit MQ application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
+3. [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
 4. [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
 5. [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
 6. [Forum using Spring](https://github.com/malletmustdie/forum)
