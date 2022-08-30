@@ -40,15 +40,16 @@
 </details>
 
 ## 👨‍💻 Here is my study projects:
-1. [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
-2. [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
-3. [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
-4. [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
-5. [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
-6. [Forum using Spring](https://github.com/malletmustdie/forum)
-7. [REST API chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
-8. [REST API weather using reactive stack Spring WebFlux](https://github.com/malletmustdie/weather-reactive)
-9. [REST API URL Shortcut service using Spring and Swagger OpenAPI](https://github.com/malletmustdie/url-short-cut)
+1.  [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
+2.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
+3.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
+4.  [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
+5.  [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
+6.  [Forum using Spring](https://github.com/malletmustdie/forum)
+7.  [REST API chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
+8.  [REST API weather using reactive stack Spring WebFlux](https://github.com/malletmustdie/weather-reactive)
+9.  [REST API URL Shortcut service using Spring and Swagger OpenAPI](https://github.com/malletmustdie/url-short-cut)
+10. [REST API Chuck Norris joke's aggregator](https://github.com/malletmustdie/chuck-server)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
