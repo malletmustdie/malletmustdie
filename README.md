@@ -18,27 +18,6 @@
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
-
-## 📊 Github Stats (Expand to View) 
-<details> 
-  <summary>
-    <b>💻 GitHub Profile Stats</b>
-  </summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/malletmustdie/github-readme-stats"><img alt="Elias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malletmustdie&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malletmustdie&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malletmustdie" height="192px"/>  
-  </p>
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/malletmustdie"><img alt="Elias Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=malletmustdie&custom_title=Elias%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
 ## 👨‍💻 Here is my study projects:
 1.  [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
 2.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
