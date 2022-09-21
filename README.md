@@ -28,7 +28,7 @@
 7.  [REST API chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
 8.  [REST API weather using reactive stack Spring WebFlux](https://github.com/malletmustdie/weather-reactive)
 9.  [REST API URL Shortcut service using Spring and Swagger OpenAPI](https://github.com/malletmustdie/url-short-cut)
-10. [REST API Chuck Norris joke's aggregator](https://github.com/malletmustdie/chuck-server)
+10. [REST API Chuck Norris joke's aggregator using Spring, Swagger OpenAPI, Docker, JasperReports](https://github.com/malletmustdie/chuck-server)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
