@@ -1,6 +1,6 @@
 ## My name is Elias Shokin, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
+- 📫 How to reach me: [@malletmustdie](https://t.me/malletmustdie)
 
 ## 🛠️ Core technologies:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
