@@ -1,4 +1,4 @@
-## Hi there, I'm Elias Shokin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## My name is Elias Shokin, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Java Backend Developer!
 - 📫 How to reach me: [@EliasShokin](https://t.me/malletmustdie)
