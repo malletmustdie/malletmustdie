@@ -19,16 +19,12 @@
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
 ## 👨‍💻 Here is my study projects:
-1.  [Console CRUD app using JDBC](https://github.com/malletmustdie/jobj4_tracker)
-2.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
-3.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
-4.  [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
-5.  [Car accident registration app using Spring](https://github.com/malletmustdie/job4j_car_accident)
-6.  [Forum using Spring](https://github.com/malletmustdie/forum)
-7.  [REST API chat using Spring and Swagger OpenAPI](https://github.com/malletmustdie/job4j_chat)
-8.  [REST API weather using reactive stack Spring WebFlux](https://github.com/malletmustdie/weather-reactive)
-9.  [REST API URL Shortcut service using Spring and Swagger OpenAPI](https://github.com/malletmustdie/url-short-cut)
-10. [REST API Chuck Norris joke's aggregator using Spring, Swagger OpenAPI, Docker, JasperReports](https://github.com/malletmustdie/chuck-server)
+1.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
+2.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
+3.  [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
+4.  [REST API URL Shortcut service](https://github.com/malletmustdie/url-short-cut)
+5.  [REST API Chuck Norris joke's aggregator using Spring, OpenAPI, Docker, JasperReports](https://github.com/malletmustdie/chuck-server)
+6.  [REST API Socks warehouse service with keycloack auth](https://github.com/malletmustdie/cib-interns-test-task) 
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
