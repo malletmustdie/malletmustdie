@@ -21,7 +21,7 @@
 ## 👨‍💻 Here is my study projects:
 1.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
 2.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
-3.  [TodoList using Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
+3.  [TodoList using AJAX, Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
 4.  [REST API URL Shortcut service](https://github.com/malletmustdie/url-short-cut)
 5.  [REST API Chuck Norris joke's aggregator using Spring, OpenAPI, Docker, JasperReports](https://github.com/malletmustdie/chuck-server)
 6.  [REST API Socks warehouse service with keycloack auth](https://github.com/malletmustdie/cib-interns-test-task) 
