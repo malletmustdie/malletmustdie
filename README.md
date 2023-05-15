@@ -2,21 +2,6 @@
 
 - 📫 How to reach me: [@malletmustdie](https://t.me/malletmustdie)
 
-## 🛠️ Core technologies:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-
-![Hibernate](https://img.shields.io/badge/Hibernate-green?style=flat-square&logo=hibernate)
-![JDBC](https://img.shields.io/badge/JDBC-738bff?style=flat-square) 
-![Liquibase](https://img.shields.io/badge/Liquibase-ff3333?style=flat-square)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
-
 ## 👨‍💻 Here is my study projects:
 1.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
 2.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
