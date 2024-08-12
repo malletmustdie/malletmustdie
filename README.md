@@ -3,12 +3,10 @@
 - 📫 How to reach me: [@malletmustdie](https://t.me/malletmustdie)
 
 ## 👨‍💻 Here is my study projects:
-1.  [REST API Socks warehouse service with keycloack auth](https://github.com/malletmustdie/cib-interns-test-task)
-2.  [REST API Chuck Norris joke's aggregator using Spring, OpenAPI, Google Oauth authorization, Prometheus & Grafana](https://github.com/malletmustdie/chuck-server)
-3.  [TodoList using AJAX, Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
-4.  [REST API URL Shortcut service](https://github.com/malletmustdie/url-short-cut)
-5.  [Simulating Jms queue application (simple JMS implementation)](https://github.com/malletmustdie/job4j_pooh)
-6.  [Job grabber(HTML Parser using JSOP)](https://github.com/malletmustdie/job4j_grabber)
+1.  [Report generation system microservice app](https://github.com/malletmustdie/otus-report-generate-system)
+2.  [REST API Socks warehouse service with keycloack auth](https://github.com/malletmustdie/cib-interns-test-task)
+3.  [REST API Chuck Norris joke's aggregator using Spring, OpenAPI, Google Oauth authorization, Prometheus & Grafana](https://github.com/malletmustdie/chuck-server)
+4.  [TodoList using AJAX, Servlet API & Hibernate](https://github.com/malletmustdie/todo-list)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
